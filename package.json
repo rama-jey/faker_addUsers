@@ -1,0 +1,21 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "vm app",
+  "main": "http_server.js",
+  "type": "module",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ramajeyasankar@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "faker": "^6.6.6",
+    "lowdb": "^1.0.0",
+    "request": "^2.88.2",
+    "@faker-js/faker": "^7.4.0"
+  }
+}
